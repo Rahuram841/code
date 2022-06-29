@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>BryanCruz</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Freelancer</description>
+	<lastBuildDate>Tue, 21 Dec 2021 19:58:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>Descripción (ES)</title>
+		<link>/descripcion/</link>
+					<comments>/descripcion/#respond</comments>
+		
+		<dc:creator><![CDATA[Bryan Cruz Admin]]></dc:creator>
+		<pubDate>Mon, 20 Dec 2021 16:27:45 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=6</guid>
+
+					<description><![CDATA[Hola, Soy Bryan Santiago Cruz Angel, a continuación encontrarás una breve descripcion de mi Perfil: Profesional de Ingeniería Biomédica de la Escuela Colombiana de Ingeniería Julio Garavito en convenio con la Universidad delRosario. Con interés en el desarrollo de software, mantenimiento de equipos médicos y Gestión hospitalaria. Cuento con experienciaen atención al cliente y proyectos [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Hola, Soy <strong>Bryan Santiago Cruz Angel</strong>, a continuación encontrarás una breve descripcion de mi Perfil:</p>
+
+
+
+<p class="has-drop-cap">Profesional de Ingeniería Biomédica de la Escuela Colombiana de Ingeniería Julio Garavito en convenio con la Universidad del<br>Rosario. Con interés en el desarrollo de software, mantenimiento de equipos médicos y Gestión hospitalaria. Cuento con experiencia<br>en atención al cliente y proyectos de investigación con inteligencia artificial. Conocimientos en normativa de equipos médicos,<br>lenguajes de programación como CSS3, HTML5, JS, Python, entre otros. Aptitud en el desarrollo de sistemas informáticos para<br>centros de salud y trabajo en equipo</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/descripcion/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Description (EN)</title>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[Bryan Cruz Admin]]></dc:creator>
+		<pubDate>Mon, 20 Dec 2021 16:18:18 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Hello, I am Bryan Santiago Cruz Angel, below you will find a brief description of my Profile: Biomedical Engineering Professional from the Julio Garavito Colombian School of Engineering in agreement with the Universidad delRosary beads. Interested in software development, medical equipment maintenance, and hospital management. I have experiencein customer service and research projects with artificial [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Hello, I am <strong>Bryan Santiago Cruz Angel</strong>, below you will find a brief description of my Profile:</p>
+
+
+
+<p>Biomedical Engineering Professional from the Julio Garavito Colombian School of Engineering in agreement with the Universidad del<br>Rosary beads. Interested in software development, medical equipment maintenance, and hospital management. I have experience<br>in customer service and research projects with artificial intelligence. Knowledge of medical equipment regulations,<br>programming languages such as CSS3, HTML5, JS, Python, among others. Aptitude in the development of computer systems for<br>health centers and teamwork.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
